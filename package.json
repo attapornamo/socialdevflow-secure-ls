@@ -13,7 +13,6 @@
     "build:minor": "yarn build-dev --env type=minor npm version minor",
     "build:major": "yarn build-dev --env type=major npm version major",
     "lint": "eslint src/*.js --fix",
-    "prepare": "husky",
     "prettier": "prettier -w **/*.js *.md",
     "test:dev": "jest --watch --runInBand --debug --colors --errorOnDeprecated",
     "test:prod": "jest --runInBand --colors --errorOnDeprecated",
