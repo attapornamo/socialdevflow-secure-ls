@@ -1,4 +1,4 @@
-# secure-ls
+# socialdevflow-secure-ls
 
 Secure localStorage/sessionStorage data with high level of encryption and data compression.
 
