@@ -21,13 +21,13 @@ Secure localStorage/sessionStorage data with high level of encryption and data c
 Via NPM
 
 ```bash
-npm install secure-ls
+npm install socialdevflow-secure-ls
 ```
 
 Via yarn
 
 ```bash
-yarn add secure-ls
+yarn add socialdevflow-secure-ls
 ```
 
 ## Libraries used
